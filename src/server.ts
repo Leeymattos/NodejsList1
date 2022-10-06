@@ -54,12 +54,10 @@ app.get('/bsms', (request, response) => {
         <p>Proatividade</p>
         <p>Comunicação</p>
     
-        <a href="/">volte para pagina inicial</a>
+        <a href="/objetivos">vá para os objetivos da semana</a>
     
     </body>
 
-    <p> <p/>
-    
     </html>`)
 })
 
